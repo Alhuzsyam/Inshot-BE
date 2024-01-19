@@ -22,7 +22,7 @@ Path | http://localhost:8080/api/employee/insert
 <b> Edit data </b>
 Methode | #Put 
 --- | ---
-http://localhost:8080/api/employee/update
+Path | http://localhost:8080/api/employee/update
 
 # Body :
 
@@ -37,7 +37,7 @@ http://localhost:8080/api/employee/update
 <b> Get All data </b>
 Methode | #GET 
 --- | ---
-http://localhost:8080/api/employee/getall
+Path | http://localhost:8080/api/employee/getall
 
 <b> Delete data by ID </b>
 Methode | #Delete
