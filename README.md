@@ -1,6 +1,6 @@
 # Inshot-BE
 
-This is CRUD Using Spring boot Framework and implement myBatis as SQL Connector
+This is CRUD Using Spring boot Framework and implement myBatis as ORM
 First clone the Repo using git clone command
 after that u can impot the sql file to your local computer and edit the sql connection at properties file
 
